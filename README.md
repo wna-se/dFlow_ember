@@ -22,6 +22,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
+* Create config/environment.js (see config/environment.js.default) 
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
